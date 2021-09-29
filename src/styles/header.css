@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 3rem;
+    background-color: bisque;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: larger;
+    font-weight: 700;
+    color: cadetblue;
+}
