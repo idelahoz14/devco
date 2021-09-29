@@ -11,7 +11,7 @@
 * Primero debemos asegurarnos de tener instalado Node.js en nuestro computador/laptop
 * Luego debemos clonar este respositorio
 * Seguido a el paso anterior debemos instalar todas las dependecnias requeridas en este proyecto
-* Así ya tendremos corriendo el proyecto localmente
+* Así ya tendremos corriendo el proyecto localmente usando el comando npm run dev
 
 ## Estructura
 * Este proyecto esta completamente estructurado por mi, tenemos una carpeta llamada src que es donde vamos a encontrar todo el codigo.
